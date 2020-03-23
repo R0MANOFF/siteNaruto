@@ -1,0 +1,62 @@
+h4{
+    font-style: oblique;
+}
+
+
+
+#obs{
+    color: #001a33;
+    font-size: small;
+    font-style: italic;
+    margin-top: 10px;
+}
+
+#formArea{
+    margin-left: 200px;
+    margin-right: 200px;
+}
+
+.content{
+    margin-top: 70px;
+    margin-left: 50px;
+    margin-right: 50px;
+}
+
+#imagemCapa{
+    max-width: width 100px;
+    height: 500px;
+}
+
+#tittleIndex{
+    text-align: center;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    margin-left: 20px;
+    margin-right: 20px;
+    float: left;
+}
+
+#bioNaruto{
+    text-align: justify;
+}
+
+#local{
+    text-align: center;
+}
+
+#data{
+    text-align: center;
+}
+
+#endereco{
+    font-style: oblique;
+}
+
+#foot{
+    margin-top: 50px;
+    width: 100%;
+    height: 50px;
+    background-color: black;
+    text-align: center;
+    
+}
