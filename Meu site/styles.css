@@ -1,3 +1,9 @@
+h4{
+    font-style: oblique;
+}
+
+
+
 #obs{
     color: #001a33;
     font-size: small;
@@ -21,8 +27,26 @@
 }
 
 #tittleIndex{
-
     text-align: center;
-    float: right; 
-    width: 20%;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    margin-left: 20px;
+    margin-right: 20px;
+    float: left;
+}
+
+#bioNaruto{
+    text-align: justify;
+}
+
+#local{
+    text-align: center;
+}
+
+#data{
+    text-align: center;
+}
+
+#endereco{
+    font-style: oblique;
 }
