@@ -10,8 +10,19 @@
     margin-right: 200px;
 }
 
-#navnav{
-    color: black;
+.content{
+    margin-left: 50px;
+    margin-right: 50px;
+}
 
+#imagemCapa{
+    max-width: width 100px;
+    height: 500px;
+}
 
+#tittleIndex{
+
+    text-align: center;
+    float: right; 
+    width: 20%;
 }
